@@ -10,19 +10,26 @@ export default function About() {
             Computer science, applied to things people actually use.
           </h2>
         </div>
+
         <div className="about__body">
           <p>
-            I'm a Computer Science Engineering student who ended up specializing in
-            full-stack and real-time web development mostly by chasing problems I could
-            see around me — a hostel's paperwork, a club's outdated site, a campus with
-            no easy way for people on the same floor to talk to each other without
-            a phone number. Each project below started as one of those.
+            I'm Ishan Shukla, a B.Tech Computer Science Engineering student and
+            passionate full-stack developer with a strong interest in building
+            practical, user-focused digital solutions. I work with technologies
+            like React.js, JavaScript, Node.js, Express.js, and MongoDB, and enjoy
+            turning ideas into functional web applications.
           </p>
+
           <p>
-            I like the layer where an interface meets a live connection — WebSockets,
-            peer-to-peer data channels, approval workflows that have to hold state
-            correctly across multiple people. That's the part of the stack I keep
-            gravitating back to, and where I want to keep building.
+            Beyond development, I serve as the Technical Team Lead of the Abhyudaya
+            Club, where I contribute to technology, event organization, and creative
+            initiatives. I'm constantly exploring new technologies, solving real-world
+            problems, and improving my skills through hands-on projects.
+          </p>
+
+          <p>
+            I believe in learning by building, taking on challenges, and creating
+            technology that makes a meaningful impact.
           </p>
         </div>
       </div>
