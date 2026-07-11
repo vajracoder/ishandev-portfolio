@@ -14,3 +14,11 @@ export const PROFILE = {
     linkedin: "https://www.linkedin.com/in/ishanshukla2/",
   },
 };
+
+export const NAV_LINKS = [
+  { id: "projects", label: "Projects" },
+  { id: "skills", label: "Skills" },
+  { id: "experience", label: "Experience" },
+  { id: "events", label: "Events" },
+  { id: "contact", label: "Contact" },
+];
